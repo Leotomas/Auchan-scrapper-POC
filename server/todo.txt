@@ -1,0 +1,37 @@
+track les matchs et les met dans mon calendrier / m'envoie un mail pour me rappeler qu'il faut que je parie
++ m'envoie une fiche avec toutes les data scrappées
+
+#Prevent scrapping
+- use user agent spoofing to make requests
+- go through a pool of ips
+- put sleeps between requests
+
+
+#Betting model
+baseline : number of games in the system;
+run a regression on :
+
+#Maps
+faut simuler les bans de map si c'est un bo3
+-> la team ban la map sur laquelle elle est la moins forte
+
+
+check hltv news
+    -> player swap, team sponsor change
+    -> winner of tournament
+
+
+
+- km traveled to offline events
+- roster change in the last 2 months
+- players play time in the last week
+- pistol round efficiency
+- global team ranking / track winning / losing in events
+- maps played
+- winrate on maps
+- winrate head to head
+- K/D of player
+- identfy if players's kd is decreasing or increasing in the recent past
+- clutched per player
+- kills per round, assists per round etc...
+
